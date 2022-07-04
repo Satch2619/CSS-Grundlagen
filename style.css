@@ -1,0 +1,11 @@
+* {
+  color: blue;
+}
+
+p,
+h1 {
+  color: green;
+}
+.text-rot {
+  color: red;
+}
